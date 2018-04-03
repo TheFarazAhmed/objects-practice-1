@@ -33,7 +33,7 @@ function func1(){
     if(a==="bahubali")
     {
         if(b === "katappa")
-        window.location = "indexx.html";    
+        window.location = "index.html";    
         else
         alert("Incorrect Password");
     }
